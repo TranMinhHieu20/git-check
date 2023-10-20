@@ -54,5 +54,6 @@ int main(){
 	xuat(a, n);
 
 	free(a);
+	// ok 
 	return 0; 
 } 
