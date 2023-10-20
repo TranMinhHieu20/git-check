@@ -43,6 +43,8 @@ int main(){
 			} 
 		printf("\n"); 
 	} 
-	//free(a);
+
+	free(a);
+	
 	return 0; 
 } 
