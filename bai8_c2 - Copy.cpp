@@ -51,6 +51,7 @@ int main(){
 	printf("\nMang sau khi sxep tren cot 0 la:\n");
 	Sxep(a, n);
 	xuat(a, n);
-	
+
+	free(a);
 	return 0; 
 } 
